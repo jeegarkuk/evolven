@@ -1,6 +1,5 @@
 import java.io.*;
-import hello.class
-public class helloworld{
+public class hello{
 	public static void main(String[] args){
 			for(int i=1;i<=10;i++){
 				System.out.println("Hello world...."+i);
